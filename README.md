@@ -8,6 +8,6 @@ This repository serves as a one-way directory of all the technical workshops hos
 - Snake Game (11/9)
 
 ## Past Workshops
-- [Raffling](https://github.com/cloudydaiyz/raffle-ws) (10/13)
+- [Raffling](https://github.com/UT-ABCS/raffle-ws) (10/13)
 - [Hot Potato](https://github.com/UT-ABCS/hot-potato-ws) (9/7)
 - [Handling Dependencies](https://github.com/UT-ABCS/handling-dependencies) (9/28)
