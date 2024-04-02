@@ -6,10 +6,9 @@ This repository serves as a one-way directory of all the technical workshops hos
 ## Upcoming Workshops
 - [How to Deploy a Website](https://github.com/UT-ABCS/deployment-ws) (2/9/24)
 - Open AI API (3/1/24)
-- Serverless Compute (3/8/24)
-- [ TBD ] (3/29/24)
+- [Cloud Computing](https://docs.google.com/presentation/d/1o8gQKZn-853C677YaowEK5QgQ3LM176nI0cHB8qGkZI/edit?usp=sharing) (3/29/24)
 - Postman Fundamentals (3/30/24)
-  - NOTE: Check out the Postman Student Expert certification!
+  - NOTE: Check out the [Postman Student Expert](https://www.postman.com/student-program/student-expert/) certification!
 
 ## Past Workshops
 - [Hot Potato](https://github.com/UT-ABCS/hot-potato-ws) (9/7/23)
